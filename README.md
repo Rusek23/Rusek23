@@ -1,6 +1,6 @@
 <h1>Hi, I'm Andrew! </h1>
 
-I am 31 years old, with a Bachelor's of Physics from Wayne State University, transitioning into the field of Information Technology.  I am currently studying for the CompTIA A+ certification which I plan to take in under a month.  I have been interested in technology from a young age and only recently have made the decision to follow that path into a career. My studies in physics have helped me understand the universe and the laws that govern it.  When it came to specializing and following the path of physics I could not come to a decision on what was more interesting other than Information Technology with a path towards Security. 
+I am 31 years old, with a Bachelor's of Physics from Wayne State University, transitioning into the field of Information Technology.  I am currently studying for the CompTIA A+ certification which I plan to take in under a month.  I have been interested in technology from a young age and only recently have made the decision to follow that path into a career. My studies in physics have helped me understand problems in a deeper way that facilitates an understanding based on fire principles.  When it comes to Information Technology, I believe physics will gives me a competative edge for tackling the most complex and multidisciplinary problems.
 
 
 <h2>👨‍💻 Information Technology/Cyber Security Projects:</h2>
