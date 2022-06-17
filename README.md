@@ -7,7 +7,6 @@ I am 31 years old, with a Bachelor's of Physics from Wayne State University, tra
 
 
   - Active Directory Home Lab (https://github.com/HomeLabURL)
-  - ProjectLayout (https://github.com/Rusek23/ProjectLayout)
   - WorkingWithNumbers (https://github.com/Rusek23/WorkingWithNumbers)
 
 
