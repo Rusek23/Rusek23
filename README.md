@@ -10,19 +10,6 @@ I am 31 years old, with a Bachelor's of Physics from Wayne State University, tra
   - WorkingWithNumbers (https://github.com/andrewrusek/WorkingWithNumbers)
 
 
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[twitter]: https://twitter.com/
-[indeed]: https://indeed.com/
-[linkedin]: https://linkedin.com/in/
-
-<!--
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
