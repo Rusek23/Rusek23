@@ -7,7 +7,7 @@ I am 31 years old, with a Bachelor's of Physics from Wayne State University, tra
 
 
   - Active Directory Home Lab (https://github.com/andrewrusek/ActiveDirectoryHomeLab)
-
+  - SIEM Azure/Sentinel RDP Failure Tracker Project (https://github.com/andrewrusek/SIEM_Azure_Sentinel_Project)
 
 
 
