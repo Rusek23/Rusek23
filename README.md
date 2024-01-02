@@ -6,10 +6,10 @@ I am a problem solver and leader with the ability to mesh together analytical re
 
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
-- Covid 19 Data Exploration Project (https://github.com/andrewrusek/SQLCovidDataExplorationProject/blob/main/CovidPortfolioDataExploration.sql)
+  - Covid 19 Data Exploration Project (https://github.com/andrewrusek/SQLCovidDataExplorationProject/blob/main/CovidPortfolioDataExploration.sql)
 
 <h2>👨‍💻 Coding Projects:</h2>
-- Excel Email Autmoation Project (https://github.com/andrewrusek/AutomatedEmailGeneratorVBA/blob/main/Program.vb)
+  - Excel Email Autmoation Project (https://github.com/andrewrusek/AutomatedEmailGeneratorVBA/blob/main/Program.vb)
 
 <h2>👨‍💻 Information Technology/Cyber Security Projects:</h2>
 
