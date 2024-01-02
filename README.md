@@ -14,7 +14,7 @@ I am a problem solver and leader with the ability to mesh together analytical re
 <h2>👨‍💻 Information Technology/Cyber Security Projects:</h2>
 
 
-  - Active Directory Home Lab (https://github.com/andrewrusek/ActiveDirectoryHomeLab)
+- Active Directory Home Lab (https://github.com/andrewrusek/ActiveDirectoryHomeLab)
   - SIEM Azure/Sentinel RDP Failure Tracker Project (https://github.com/andrewrusek/SIEM_Azure_Sentinel_Project)
 
 
