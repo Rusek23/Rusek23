@@ -5,6 +5,12 @@ I am a highly data analytical professional with a Bachelors of Science in Physic
 I am a problem solver and leader with the ability to mesh together analytical reasoning and empathetic response to best fit any role within a team environment. I have completed and continually work on multiple data analysis projects in order grow my learning everyday. 
 
 
+<h2>👨‍💻 Data Analysis Projects:</h2>
+- Covid 19 Data Exploration Project (https://github.com/andrewrusek/SQLCovidDataExplorationProject/blob/main/CovidPortfolioDataExploration.sql)
+
+<h2>👨‍💻 Coding Projects:</h2>
+- Excel Email Autmoation Project (https://github.com/andrewrusek/AutomatedEmailGeneratorVBA/blob/main/Program.vb)
+
 <h2>👨‍💻 Information Technology/Cyber Security Projects:</h2>
 
 
